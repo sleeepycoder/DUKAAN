@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DUKAAN/static/css/main.136ad96c.css",
-    "main.js": "/DUKAAN/static/js/main.831a8414.js",
+    "main.js": "/DUKAAN/static/js/main.1e5b4671.js",
     "static/media/Hero.png": "/DUKAAN/static/media/Hero.91a711a94cb02286ae2c.png",
     "static/media/slider_img_1.jpg": "/DUKAAN/static/media/slider_img_1.cf8ca12814883cf49b87.jpg",
     "static/media/slider_img_2.jpg": "/DUKAAN/static/media/slider_img_2.871014abde646973db58.jpg",
@@ -10,10 +10,10 @@
     "index.html": "/DUKAAN/index.html",
     "static/media/loader.svg": "/DUKAAN/static/media/loader.9199439f44c3cf8c62267067e36cb27d.svg",
     "main.136ad96c.css.map": "/DUKAAN/static/css/main.136ad96c.css.map",
-    "main.831a8414.js.map": "/DUKAAN/static/js/main.831a8414.js.map"
+    "main.1e5b4671.js.map": "/DUKAAN/static/js/main.1e5b4671.js.map"
   },
   "entrypoints": [
     "static/css/main.136ad96c.css",
-    "static/js/main.831a8414.js"
+    "static/js/main.1e5b4671.js"
   ]
 }
