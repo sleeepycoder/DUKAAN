@@ -1,13 +1,24 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins&family=Urbanist:ital,wght@0,100;0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
+
+* > * {
+    font-family: 'Poppins', sans-serif;
+}
+.home{
+    background: #dcdce6;
+    background-image: url('./assets/Hero.png');
+}
+.home_main{
+   
+        background: rgba(253, 253, 253, 0.55);
+        border-radius: 16px;
+        box-shadow: 0 4px 30px #4747470b;
+        backdrop-filter: blur(.1px);
+        /* border: 1px solid rgba(255, 255, 255, 0.3);
+        @apply border-4 border-gray-50 shrink-0 h-3/4 w-[30%] rounded-3xl py-20 px-7 min-w-max; */
+ 
 }
