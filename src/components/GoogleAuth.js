@@ -15,7 +15,7 @@ const GoogleAuth = () => {
             const details =jwt_decode(credentialResponse.credential); 
               console.log(details.email);
 
-if(details.email !=""){
+if(details.email !==""){
     Navigate("/")
 }
 
